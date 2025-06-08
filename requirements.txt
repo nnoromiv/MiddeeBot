@@ -3,4 +3,3 @@ mysql-connector-python==8.0.33
 pyTelegramBotAPI==4.11.0
 python-dotenv==1.0.0
 telebot==0.0.5
-tweepy==4.15.0
