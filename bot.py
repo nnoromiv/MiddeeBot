@@ -11,7 +11,7 @@ import re
 # The above code is importing the `mysql.connector` module in Python. This module provides a way to
 # connect to a MySQL database and perform various operations such as executing queries, inserting
 # data, updating data, and deleting data.
-import tweepy
+# import tweepy
 import mysql.connector
 # The above code is importing the `Error` class from the `mysql.connector` module in Python. This
 # class is typically used to handle errors that may occur when working with a MySQL database using the
